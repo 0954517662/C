@@ -29,10 +29,10 @@ class Config(object):
     }
 
     APP_TYPE    = "CHROMEOS\t2.1.0\tCHROMEOS\t10.0.0"
-    APP_VER     = '8.9.1'
+    APP_VER     = '2.1.5'
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'CHROMEOS'
-    SYSTEM_VER  = '10.12.0'
+    SYSTEM_NAME = 'SELFBOT-BY:MAX'
+    SYSTEM_VER  = '11.2.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
